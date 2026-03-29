@@ -1,0 +1,8 @@
+langchain==0.3.25
+langchain-google-genai==2.1.4
+langchain-community==0.3.24
+faiss-cpu==1.11.0
+streamlit==1.45.1
+snowflake-connector-python==3.14.0
+python-dotenv==1.1.0
+mcp==1.9.1
