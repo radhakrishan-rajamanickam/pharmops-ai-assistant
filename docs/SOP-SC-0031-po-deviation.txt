@@ -1,0 +1,79 @@
+STANDARD OPERATING PROCEDURE
+Document ID: SOP-SC-0031
+Title: Purchase Order Deviation Handling
+Version: 1.5
+Status: ACTIVE
+Applicable Sites: All PharmaCo Sites
+Owner: Supply Chain Operations Director
+Steward: Procurement Data Lead
+Last Reviewed: 2025-09-10
+Next Review: 2026-09-10
+
+1. PURPOSE
+This SOP defines how Purchase Order deviations are identified, 
+classified, approved, and resolved at PharmaCo manufacturing sites. 
+A PO deviation occurs when a delivered order differs from the 
+agreed specification in quantity, quality, timing, or documentation.
+
+2. SCOPE
+Applies to all purchase orders raised by PharmaCo sites for 
+direct materials, indirect materials, and contract services.
+
+3. DEVIATION CLASSIFICATION
+3.1 Minor PO Deviation
+Quantity variance less than 5% of ordered amount.
+Documentation minor omission correctable within 48 hours.
+No GxP impact. Resolved by Procurement Officer.
+
+3.2 Major PO Deviation
+Quantity variance between 5% and 20%.
+Quality specification outside agreed tolerance.
+Delivery date more than 5 business days late.
+Requires Procurement Manager approval and supplier CAPA.
+
+3.3 Critical PO Deviation
+Quantity variance greater than 20%.
+Material fails quality testing.
+Supplier GxP certification not current at time of delivery.
+Requires Quality Director sign-off and regulatory notification 
+if applicable.
+
+4. RESPONSE PROCEDURE
+Step 1: Receiving team identifies deviation at goods receipt 
+and raises Deviation Notification in procurement system.
+Step 2: Procurement Officer classifies deviation within 4 hours.
+Step 3: Affected materials placed on Quality Hold pending 
+classification review.
+Step 4: Supplier notified per SOP-OPS-0007 within 8 hours 
+of deviation identification.
+Step 5: For Major and Critical deviations, supplier must 
+submit root cause analysis within 5 business days.
+Step 6: Procurement Manager reviews root cause and approves 
+or rejects supplier response.
+Step 7: CAPA agreed and tracked to closure.
+
+5. QUALITY HOLD MANAGEMENT
+5.1 Materials on Quality Hold must be physically segregated 
+and clearly labelled.
+5.2 Quality Hold status must be reflected in inventory system 
+within 2 hours of decision.
+5.3 No materials on Quality Hold may be used in production.
+5.4 Quality Hold may only be released by the Quality Officer 
+with written authorisation.
+
+6. SUPPLIER IMPACT ASSESSMENT
+For any Critical PO Deviation, the Supply Chain team must 
+assess the supplier's qualification status per SOP-SC-0018. 
+If the deviation is linked to a GxP certification issue, 
+immediate suspension procedure applies.
+
+7. DOCUMENTATION REQUIREMENTS
+All PO deviations must be logged in the procurement system 
+on the day of identification. Major and Critical deviations 
+require formal Deviation Report within 24 hours. Records 
+retained for 7 years minimum.
+
+8. RELATED DOCUMENTS
+SOP-SC-0018: Supplier GxP Qualification Procedure
+SOP-OPS-0007: Supplier Communication Protocol
+SOP-QA-0042: Cold Chain Temperature Monitoring

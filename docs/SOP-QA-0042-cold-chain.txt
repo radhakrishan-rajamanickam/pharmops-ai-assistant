@@ -1,0 +1,83 @@
+STANDARD OPERATING PROCEDURE
+Document ID: SOP-QA-0042
+Title: Cold Chain Temperature Monitoring and Deviation Management
+Version: 3.2
+Status: ACTIVE
+Applicable Sites: Site Alpha (SITE-A), Site Beta (SITE-B)
+Owner: Quality Director
+Steward: Quality Operations Lead
+Last Reviewed: 2026-01-15
+Next Review: 2027-01-15
+
+1. PURPOSE
+This SOP defines the requirements for monitoring cold chain 
+temperature conditions during storage and transportation of 
+temperature-sensitive pharmaceutical materials at PharmaCo 
+manufacturing sites. It establishes procedures for detecting, 
+documenting, and responding to temperature deviations to ensure 
+product quality and GxP compliance.
+
+2. SCOPE
+Applies to all temperature-sensitive raw materials, intermediates, 
+and finished products handled at Site Alpha and Site Beta. Includes 
+storage areas, transport vehicles, and loading/unloading zones.
+
+3. TEMPERATURE REQUIREMENTS
+3.1 Refrigerated storage: +2°C to +8°C
+3.2 Controlled room temperature: +15°C to +25°C
+3.3 Frozen storage: -20°C ± 5°C
+3.4 Ultra-low temperature: -70°C ± 10°C
+
+4. MONITORING REQUIREMENTS
+4.1 Continuous electronic temperature monitoring is mandatory for 
+all cold chain storage areas.
+4.2 Data loggers must be calibrated every 12 months.
+4.3 Alarms must be set at 1°C from the acceptable limit to allow 
+response before a deviation occurs.
+4.4 Temperature records must be reviewed daily by the designated 
+site quality officer.
+
+5. DEVIATION DETECTION AND CLASSIFICATION
+5.1 Minor deviation: Temperature outside range for less than 
+30 minutes. No immediate product impact expected.
+5.2 Major deviation: Temperature outside range for 30 minutes 
+to 4 hours. Product impact assessment required.
+5.3 Critical deviation: Temperature outside range for more than 
+4 hours. Immediate product quarantine and quality hold required.
+
+6. RESPONSE PROCEDURE FOR TEMPERATURE DEVIATION
+Step 1: Upon detection of deviation, the site operator must 
+immediately acknowledge the alarm and document the time.
+Step 2: Attempt to restore correct temperature conditions within 
+15 minutes.
+Step 3: Notify the site Quality Officer within 30 minutes of 
+detection regardless of deviation classification.
+Step 4: For Major and Critical deviations, notify the supplier 
+within 2 hours using the Supplier Communication Protocol 
+(SOP-OPS-0007).
+Step 5: Place affected materials on Quality Hold in the inventory 
+system pending impact assessment.
+Step 6: Complete Deviation Report Form QA-DEV-001 within 24 hours.
+Step 7: Initiate CAPA (Corrective and Preventive Action) for all 
+Major and Critical deviations within 5 business days.
+
+7. SUPPLIER NOTIFICATION REQUIREMENTS
+7.1 If the deviation involves materials recently received from a 
+supplier, the supplier must be notified per SOP-OPS-0007.
+7.2 Suppliers with active GxP certification must acknowledge 
+notification within 24 hours.
+7.3 Suppliers without current GxP certification must be escalated 
+immediately to the Procurement Lead for qualification review per 
+SOP-SC-0018.
+
+8. DOCUMENTATION
+All temperature deviation events must be recorded in the Quality 
+Management System within 24 hours. Records must be retained for 
+a minimum of 7 years. CAPA records must be linked to the original 
+deviation report.
+
+9. RELATED DOCUMENTS
+SOP-SC-0018: Supplier GxP Qualification Procedure
+SOP-OPS-0007: Supplier Communication Protocol
+SOP-SC-0031: Purchase Order Deviation Handling
+Form QA-DEV-001: Deviation Report Form

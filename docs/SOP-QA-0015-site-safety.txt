@@ -1,0 +1,79 @@
+STANDARD OPERATING PROCEDURE
+Document ID: SOP-QA-0015
+Title: Site Quality and Safety Requirements
+Version: 2.1
+Status: ACTIVE
+Applicable Sites: Site Alpha (SITE-A), Site Beta (SITE-B)
+Owner: Site Quality Manager
+Steward: Quality Operations Lead
+Last Reviewed: 2025-12-01
+Next Review: 2026-12-01
+
+1. PURPOSE
+This SOP defines the quality and safety requirements for 
+PharmaCo manufacturing sites, with specific provisions for 
+Site Alpha and Site Beta operations. It ensures all site 
+activities comply with GxP regulations and PharmaCo global 
+quality standards.
+
+2. SITE QUALITY REQUIREMENTS
+2.1 All manufacturing activities at Site Alpha and Site Beta 
+must comply with current Good Manufacturing Practice (cGMP).
+2.2 Site quality plans must be reviewed and approved annually 
+by the Site Quality Manager and Regional Quality Director.
+2.3 Internal quality audits must be conducted quarterly.
+2.4 All critical quality events must be reported to the 
+Global Quality team within 24 hours.
+
+3. SUPPLIER ACCESS TO SITES
+3.1 Only Approved suppliers per SOP-SC-0018 may deliver 
+materials directly to Site Alpha or Site Beta.
+3.2 Supplier delivery personnel must sign site visitor log 
+and complete site safety briefing before entry.
+3.3 Suspended suppliers are not permitted on site. Any 
+attempted delivery from a Suspended supplier must be refused 
+and reported to the Procurement Lead immediately.
+
+4. QUALITY HOLD AREAS
+4.1 Each site must maintain a designated Quality Hold area 
+that is physically separated from approved stock.
+4.2 Quality Hold areas must be secured and access restricted 
+to Quality Officers only.
+4.3 Inventory system must reflect Quality Hold status in 
+real time.
+
+5. DEVIATION MANAGEMENT AT SITE LEVEL
+5.1 Site operators must report any quality deviation 
+immediately to the site Quality Officer.
+5.2 Site Quality Officer has authority to place materials 
+on Quality Hold without prior approval.
+5.3 All site deviations must be assessed for CAPA requirement 
+within 5 business days.
+5.4 Repeat deviations of the same type within 90 days trigger 
+mandatory escalation to Regional Quality Director.
+
+6. CAPA MANAGEMENT
+6.1 CAPA stands for Corrective and Preventive Action.
+6.2 Corrective action addresses the immediate cause of a 
+deviation.
+6.3 Preventive action addresses the root cause to prevent 
+recurrence.
+6.4 All CAPAs must be assigned an owner and a target 
+completion date within 5 business days of initiation.
+6.5 CAPAs must be reviewed monthly by the site Quality team.
+6.6 Overdue CAPAs must be escalated to the Quality Director.
+
+7. REGULATORY INSPECTION READINESS
+7.1 Sites must maintain inspection readiness at all times.
+7.2 All SOPs must be current — no SOP may be used if past 
+its review date.
+7.3 Temperature records, deviation logs, and CAPA registers 
+must be available for inspection within 2 hours of request.
+7.4 Supplier qualification records including GxP certificates 
+must be maintained and accessible for all active suppliers.
+
+8. RELATED DOCUMENTS
+SOP-SC-0018: Supplier GxP Qualification Procedure
+SOP-QA-0042: Cold Chain Temperature Monitoring
+SOP-SC-0031: Purchase Order Deviation Handling
+SOP-OPS-0007: Supplier Communication Protocol

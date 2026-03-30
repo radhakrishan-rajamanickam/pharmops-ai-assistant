@@ -1,0 +1,83 @@
+STANDARD OPERATING PROCEDURE
+Document ID: SOP-SC-0018
+Title: Supplier GxP Qualification and Requalification Procedure
+Version: 2.0
+Status: ACTIVE
+Applicable Sites: Site Alpha (SITE-A), Site Beta (SITE-B), All Sites
+Owner: Head of Procurement Operations
+Steward: Supply Chain Data Office
+Last Reviewed: 2025-11-20
+Next Review: 2026-11-20
+
+1. PURPOSE
+This SOP defines the process for qualifying, maintaining, and 
+requalifying suppliers of GxP-relevant materials and services 
+for PharmaCo manufacturing operations. It ensures all active 
+suppliers meet regulatory and quality requirements before and 
+during their engagement with PharmaCo sites.
+
+2. SCOPE
+Applies to all external suppliers providing raw materials, 
+packaging components, contract manufacturing services, and 
+laboratory services to any PharmaCo manufacturing site.
+
+3. GXP CERTIFICATION REQUIREMENTS
+3.1 All suppliers of GxP-critical materials must hold a current 
+GxP certification issued by a recognised regulatory authority.
+3.2 GxP certificates must be renewed annually and submitted to 
+the PharmaCo Supplier Portal at least 30 days before expiry.
+3.3 Suppliers must notify PharmaCo immediately if certification 
+is suspended, withdrawn, or materially changed.
+
+4. INITIAL QUALIFICATION PROCESS
+Step 1: Supplier submits qualification package including GxP 
+certificate, quality manual, and site audit reports.
+Step 2: Supply Chain Data Office reviews documentation and 
+assigns qualification score.
+Step 3: Quality team conducts remote or on-site audit for 
+high-risk suppliers.
+Step 4: Qualified suppliers are registered in the Supplier Master 
+system (Reltio) and assigned Approved status.
+Step 5: Collibra catalog updated with supplier CDE metadata 
+including certification expiry date.
+
+5. ANNUAL REQUALIFICATION
+5.1 All GxP suppliers must be requalified annually.
+5.2 Requalification is triggered automatically 90 days before 
+GxP certificate expiry.
+5.3 Supplier must submit updated certification documents 
+within 30 days of receiving requalification notice.
+5.4 Failure to submit within 30 days triggers Conditional status.
+5.5 Failure to submit within 60 days triggers Suspended status.
+
+6. CERTIFICATION LAPSE PROCEDURE
+6.1 If a supplier's GxP certificate expires without renewal, 
+the supplier is immediately moved to Suspended status.
+6.2 All open Purchase Orders with the suspended supplier must 
+be placed on Quality Hold within 24 hours.
+6.3 No new Purchase Orders may be raised for a Suspended supplier.
+6.4 The Procurement Lead must notify the site Operations Manager 
+within 4 hours of suspension.
+6.5 A CAPA must be initiated within 5 business days referencing 
+the supplier qualification failure.
+6.6 Reinstatement requires full requalification audit and 
+Quality Director approval.
+
+7. SUPPLIER STATUS DEFINITIONS
+Approved: Current GxP cert, fully qualified, POs permitted.
+Conditional: Cert expiring within 90 days, requalification in 
+progress, existing POs permitted, no new POs above threshold.
+Suspended: Cert lapsed or audit failed, all POs on Quality Hold.
+Disqualified: Permanently removed, never to be reinstated.
+
+8. ESCALATION MATRIX
+Day 0 — Cert expires: Auto-suspend, Quality Hold on all open POs.
+Day 1 — Procurement Lead notified.
+Day 3 — Operations Manager notified.
+Day 7 — Quality Director review meeting.
+Day 30 — Disqualification review if no corrective action.
+
+9. RELATED DOCUMENTS
+SOP-QA-0042: Cold Chain Temperature Monitoring
+SOP-OPS-0007: Supplier Communication Protocol
+SOP-SC-0031: Purchase Order Deviation Handling

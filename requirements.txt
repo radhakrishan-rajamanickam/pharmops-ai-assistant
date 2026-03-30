@@ -1,8 +1,28 @@
-langchain==0.3.25
-langchain-google-genai==2.1.4
-langchain-community==0.3.24
-faiss-cpu==1.11.0
-streamlit==1.45.1
-snowflake-connector-python==3.14.0
-python-dotenv==1.1.0
-mcp==1.9.1
+# PharmOps AI Assistant — direct dependencies only
+# pip install -r requirements.txt will automatically install all sub-dependencies
+
+# LangChain — agent framework and RAG pipeline
+langchain
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+
+# Vector store — local FAISS index for SOP embeddings
+faiss-cpu
+
+# LLM and embeddings — Google Gemini free tier
+# Confirmed working embedding model: models/gemini-embedding-001
+# Confirmed working LLM model: gemini-1.5-flash
+google-genai
+
+# UI — Streamlit chat interface
+streamlit
+
+# Database — Snowflake live data queries
+snowflake-connector-python
+
+# MCP — Model Context Protocol server for tool exposure
+mcp
+
+# Utilities
+python-dotenv

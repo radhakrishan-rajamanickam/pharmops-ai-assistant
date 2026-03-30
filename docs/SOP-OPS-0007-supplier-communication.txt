@@ -1,0 +1,107 @@
+STANDARD OPERATING PROCEDURE
+Document ID: SOP-OPS-0007
+Title: Supplier Communication Protocol
+Version: 1.3
+Status: ACTIVE
+Applicable Sites: All PharmaCo Sites
+Owner: Head of Procurement Operations
+Steward: Supply Chain Data Office
+Last Reviewed: 2025-10-05
+Next Review: 2026-10-05
+
+1. PURPOSE
+This SOP defines how PharmaCo communicates with suppliers 
+during quality events, deviations, certification issues, and 
+routine operational matters. It ensures consistent, documented, 
+and timely communication that protects PharmaCo's regulatory 
+standing and supplier relationships.
+
+2. SCOPE
+Applies to all communication between PharmaCo procurement, 
+quality, and operations teams and external suppliers.
+
+3. COMMUNICATION CHANNELS AND HIERARCHY
+3.1 Operational queries: Email to supplier account manager.
+3.2 Quality deviations: Formal written notification via 
+Supplier Portal within defined timeframes.
+3.3 GxP certification issues: Registered email to supplier 
+Quality Director with read receipt required.
+3.4 Suspension notifications: Phone call followed by formal 
+written notice within 2 hours.
+3.5 Emergency supply issues: Phone call to supplier 
+emergency contact, followed by email within 1 hour.
+
+4. NOTIFICATION TIMEFRAMES
+4.1 Cold chain deviation involving supplier materials: 
+Notify within 2 hours of deviation detection (SOP-QA-0042).
+4.2 PO deviation identified at goods receipt: 
+Notify within 8 hours of identification (SOP-SC-0031).
+4.3 GxP certificate expiry approaching (90 days): 
+Send requalification notice via Supplier Portal.
+4.4 GxP certificate lapsed — suspension: 
+Phone call within 4 hours, written notice within 2 hours 
+of phone call.
+4.5 Quality Hold on supplier materials: 
+Notify within 24 hours with Hold reference number.
+
+5. REQUIRED CONTENT FOR QUALITY NOTIFICATIONS
+All formal quality notifications to suppliers must include:
+5.1 PharmaCo site name and site code (SITE-A or SITE-B).
+5.2 Supplier ID as registered in PharmaCo Supplier Master.
+5.3 Affected Purchase Order number(s).
+5.4 Nature and classification of the deviation or issue.
+5.5 Materials affected with batch numbers where available.
+5.6 Required supplier response and deadline.
+5.7 Name and contact details of PharmaCo responsible person.
+
+6. CAPA REQUEST PROCEDURE
+6.1 For Major and Critical deviations, PharmaCo must 
+formally request a CAPA from the supplier.
+6.2 CAPA request must be sent within 5 business days of 
+deviation classification.
+6.3 Supplier must acknowledge CAPA request within 48 hours.
+6.4 Supplier must submit completed CAPA within 30 days.
+6.5 PharmaCo Quality team reviews and approves or rejects 
+supplier CAPA within 10 business days.
+6.6 Rejected CAPAs require resubmission within 15 days.
+
+7. ESCALATION PROCEDURE
+7.1 If supplier does not acknowledge within required timeframe, 
+escalate to Procurement Manager.
+7.2 If supplier does not respond within 5 business days of 
+escalation, escalate to Quality Director.
+7.3 Persistent non-response triggers qualification review 
+per SOP-SC-0018.
+
+8. DOCUMENTATION
+All supplier communications related to quality events must 
+be logged in the Supplier Communication Register on the 
+day of communication. Records retained for 7 years.
+
+9. FIRST ACTION CHECKLIST FOR COMMON SCENARIOS
+Scenario A — GxP cert lapsed, open PO exists:
+  1. Place PO on Quality Hold immediately
+  2. Call supplier Quality Director
+  3. Send formal suspension notice within 2 hours
+  4. Notify site Operations Manager within 4 hours
+  5. Initiate CAPA within 5 business days
+
+Scenario B — Cold chain deviation, supplier materials affected:
+  1. Place materials on Quality Hold
+  2. Notify supplier within 2 hours
+  3. Request temperature data from supplier
+  4. Complete deviation report within 24 hours
+  5. Request supplier CAPA if Major or Critical
+
+Scenario C — PO quantity deviation greater than 20%:
+  1. Refuse excess or shortage at goods receipt
+  2. Notify supplier within 8 hours
+  3. Raise Critical PO Deviation in procurement system
+  4. Request root cause analysis within 5 business days
+  5. Quality Director sign-off required for resolution
+
+10. RELATED DOCUMENTS
+SOP-SC-0018: Supplier GxP Qualification Procedure
+SOP-QA-0042: Cold Chain Temperature Monitoring
+SOP-SC-0031: Purchase Order Deviation Handling
+SOP-QA-0015: Site Quality and Safety Requirements
